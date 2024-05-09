@@ -35,12 +35,6 @@ Follow these steps to set up and run the project:
 
 3. **Setup ENV**
 
-   Copy and paste the .env.example file
-
-
-   OR
-
-
    Rename the .env.example into .env
 
 4. **Run the Project**
