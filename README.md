@@ -9,9 +9,11 @@ Currently, two official plugins are available:
 
 ## Project Specification
 
-NodeJS Version 20.11.1
-ReactJS Version ^18.2.0
-Vite Version ^5.2.0
+**NodeJS Version**: 20.11.1
+
+**ReactJS Version**: ^18.2.0
+
+**Vite Version**: ^5.2.0
 
 ## Setup Project
 
@@ -33,9 +35,13 @@ Follow these steps to set up and run the project:
 
 3. **Setup ENV**
 
-  Copy and paste the .env.example file
-  OR
-  Rename the .env.example into .env
+   Copy and paste the .env.example file
+
+
+   OR
+
+
+   Rename the .env.example into .env
 
 4. **Run the Project**
 
