@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 html {
-    color-scheme: light !Important;
-    background-color: white !important
+    color-scheme: light !important;
+    background-color: white !important;
 }
