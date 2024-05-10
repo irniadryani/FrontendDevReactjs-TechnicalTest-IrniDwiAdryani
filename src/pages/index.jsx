@@ -149,7 +149,7 @@ export default function index() {
                     Math.min(8, filteredDataRestaurant.length - itemsToShow)
                 )
               }
-              className="py-3 w-full border border-sky-950 rounded-lg hover:bg-[rgb(8_47_73/var(--tw-border-opacity))] hover:text-white"
+              className="py-3 w-full border border-sky-950 rounded-lg hover:bg-[rgb(8_47_73/var(--tw-border-opacity))] hover:text-white text-black"
             >
               Load More
             </button>

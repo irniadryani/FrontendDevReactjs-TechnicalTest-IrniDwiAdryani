@@ -92,7 +92,7 @@ export const Navigation = ({
 
   return (
     <div className="mt-10 flex flex-col justify-center items-start lg:flex-row gap-5 lg:justify-start lg:items-center">
-      <div className="w-20 pb-1">Filter By:</div>
+      <div className="w-20 pb-1 text-black">Filter By:</div>
       <div className="flex flex-col justify-center lg:flex-row lg:justify-between lg:items-center gap-5 w-full">
         <div class="flex items-center gap-2">
           <div class="flex items-center border-b border-gray-400 pb-1">

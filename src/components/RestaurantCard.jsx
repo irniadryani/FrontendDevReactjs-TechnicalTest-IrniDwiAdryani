@@ -33,7 +33,7 @@ export const RestaurantCard = ({
         />
       </figure>
       <div class="card-body items-start">
-        <h2 class="card-title">{name}</h2>
+        <h2 class="card-title text-black">{name}</h2>
         <div>
           <StarRating rating={rating} />
         </div>
