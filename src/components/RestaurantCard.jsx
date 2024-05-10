@@ -54,7 +54,7 @@ export const RestaurantCard = ({
         </div>
         <Link to={`/detail_restaurant/${id}`} className="w-full">
           <div class="card-actions">
-            <button class="btn bg-sky-950 text-white  w-full max-w-xl">
+            <button class="btn bg-sky-950 text-white  w-full max-w-xl hover:bg-white hover:text-black border border-sky-950">
               Learn More
             </button>
           </div>
