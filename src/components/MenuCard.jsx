@@ -2,7 +2,7 @@ import { FaStar } from "react-icons/fa";
 
 export const MenuCard = ({ image, menuName, description, rating, id }) => {
   return (
-    <div class="card card-compact w-full bg-base-100 shadow-xl p-">
+    <div class="card card-compact w-full bg-white shadow-xl p-0">
       <figure>
         <img src={image} alt={`menu-image-${id}`} className="w-full h-44" />
       </figure>
