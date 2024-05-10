@@ -6,3 +6,7 @@ html {
     color-scheme: light !important;
     background: white !important;
 }
+
+body {
+    background-color: white
+}
