@@ -24,7 +24,7 @@ export const RestaurantCard = ({
   const priceSymbol = convertPriceToSymbol(price);
 
   return (
-    <div class="card card-compact w-full bg-white shadow-xl p-0">
+    <div class="card card-compact w-full bg-base-900 shadow-xl p-0">
       <figure>
         <img
           src={image}
