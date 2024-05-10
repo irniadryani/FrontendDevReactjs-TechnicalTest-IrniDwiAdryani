@@ -140,6 +140,15 @@ export default function index() {
                 />
               ))}
         </div>
+
+        {!loadingRestaurant && filteredDataRestaurant.length === 0 ? (
+          <div className="flex justify-center items-center flex-col gap-2 w-full">
+            <p className="text-2xl text-black font-bold">
+              No Restaurant Available
+            </p>
+          </div>
+        ) : null}
+
         {!loadingRestaurant && itemsToShow < filteredDataRestaurant?.length && (
           <div className="w-full flex items-center justify-center my-10">
             <button
